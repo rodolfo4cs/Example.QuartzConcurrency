@@ -1,7 +1,7 @@
 # Example.QuartzConcurrency
 
 ---
-This is a simple example of a .net framwork 4.6 program to show concurrency in Quartz 3.0.7
+This is a simple example of a .net framwork 4.6 program to show concurrent jobs in Quartz 3.0.7
 ---
 Usage:
 - By default
